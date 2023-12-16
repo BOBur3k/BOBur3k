@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://giffiles.alphacoders.com/819/81925.gif" alt="Blade Runner Animated Header" />
+  <img height="300" src="https://giffiles.alphacoders.com/819/81925.gif" alt="Blade Runner Animated Header" />
 </div>
 
 <div align="center">
