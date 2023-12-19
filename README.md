@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
-  <img src="https://visitcount.itsvg.in/api?id=BOBur3k&icon=7&color=6" height="30" alt="Visitor Count" />
 </div>
 
 <h1 align="center"> Hello World! 👽</h1>
