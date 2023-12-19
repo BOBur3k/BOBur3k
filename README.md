@@ -14,7 +14,7 @@
 
 <h3 align="left">🚀 About Me</h3>
 
-<p align="left">I'm Bob, currently navigating the concrete jungle of NYC (originally from the vibrant land of Uzbekistan).<br><br>- 🛰️ Learning the art of Data Science at The Knowledge House.<br>- 📊 Passionate about decoding pop-cultural trends.<br>- ✨ In my free time, I explore data realms and ride the waves of pop culture.</p>
+<p align="left">I'm Bob, currently enjoying my life in NYC (originally from the Uzbekistan). During the daytime, I am empowering pre-college studetns with tools to succeed in their academic journey. <br><br>- 🛰️ After my work routine, learning the art of Data Science at The Knowledge House.<br>- 📊 Passionate about decoding pop-cultural trends.<br>- ✨ In my free time, I explore data realms and ride the waves of pop culture.</p>
 
 # 💻 Tech Stack:
 Bringing order to chaos with my tech toolkit:
