@@ -38,16 +38,14 @@ Bringing order to chaos with my tech toolkit:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-<h3 align="left">🌌 My Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BOBur3k&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BOBur3k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BOBur3k&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
 </div>
 
 <h3 align="center">😂 Meme Break</h3>
 <div align="center">
-  <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" width="300" />
+  <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" width="500" />
 </div>
 
 
